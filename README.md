@@ -8,11 +8,6 @@
 
 ## 🚀 Get Started
 
-
-
-
-
-
 ## 🔗 Citation:
 
 We encourage collaboration and use of this dataset for further advancements in stock prediction using deep learning. If you find this resource useful, kindly cite our paper. Happy researching!
