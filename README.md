@@ -2,7 +2,7 @@
 
 - This repository houses the datasets/resources used in our paper [ChatGPT Informed Graph Neural Network for Stock Movement Prediction](https://arxiv.org/abs/2306.03763). 
 - This research introduces a novel framework that leverages ChatGPT's graph inference capabilities to enhance Graph Neural Networks (GNN).
-- Our model shows superior performance in both 1) stock movement prediction and 2) portfolio construction.
+- Our model shows superior performance in both (1) stock movement prediction and (2) portfolio construction.
 - Dive in to find the datasets, code samples, and more!
 - 📄 Paper: [[Link to the paper]](https://arxiv.org/abs/2306.03763)
 
